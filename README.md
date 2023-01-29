@@ -45,7 +45,7 @@ This project was done independently, to respect my work it is forbidden to copy 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Maelus-999/ezpython)
 
-![PyPI](https://img.shields.io/pypi/v/moreezpython?label=package%20version)
+![PyPI](https://img.shields.io/pypi/v/moreezpython?label=package%20version](https://img.shields.io/badge/Package%20Version-v0.1.0-blue)
 
 ![pyver](https://img.shields.io/badge/min%20python%20version-v2.7-green)
 
