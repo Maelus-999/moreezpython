@@ -34,6 +34,7 @@ mep.help()
 This project was done independently, to respect my work it is forbidden to copy the code of the package moreover it is forbidden to modify the source code to sell the package
 
 
+
 ## Badges
 
 
@@ -44,3 +45,4 @@ This project was done independently, to respect my work it is forbidden to copy 
 ![PyPI](https://img.shields.io/pypi/v/moreezpython)
 
 ![pyver](https://img.shields.io/badge/min%20python%20version-v2.7-green)
+
