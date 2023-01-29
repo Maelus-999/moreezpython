@@ -1,0 +1,2 @@
+# ezpython
+Python More easy
