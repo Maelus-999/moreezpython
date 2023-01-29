@@ -15,7 +15,7 @@ Install moreezpython with pip
 ## Usage/Examples
 
 ```python
-import file.moreezpython as mep
+import moreezpython.moreezpython as mep
 
 mep.help()
 ```
