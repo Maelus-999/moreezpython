@@ -25,8 +25,7 @@ mep.help()
 
 - Log with colors for easy reading
 - Allows to count for example print the number of seconds to wait
-- Easy Features
-
+- Another Easy Features
 
 
 ## License
