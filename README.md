@@ -3,6 +3,10 @@
 
 This package is for making python even easier (it also adds some function)
 
+## Last update
+
+### v0.1.0
+#### The Color Update more than 17 color has been added
 
 ## Installation
 
