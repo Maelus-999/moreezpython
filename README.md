@@ -17,7 +17,7 @@ Install moreezpython with pip
 ```python
 import file.moreezpython as mep
 
-mep.help(
+mep.help()
 ```
 
 
